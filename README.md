@@ -1,6 +1,6 @@
 # AttendanceSystem
 
- **Administrator Page**
+ Administrator Page
  Users Page
  Login
  Reset Password
