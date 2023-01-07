@@ -2,6 +2,8 @@
 ```
  Administrator Page
  Users Page
+ Register User
+ Dashboard
  Login
  Reset Password (Security Questions)
  Encryption
